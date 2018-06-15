@@ -1,0 +1,16 @@
+/* Changes the base body font size */
+body p {
+    font-size: 17px;
+}
+
+/* Changes the font size for lists in postings */
+.post .post-content ul, .post .post-content ol {
+    font-size: 16px;
+}
+
+
+/* Social icons for footer */
+.widget.widget_socialicons .social-icons-style2 .social {
+    background: eb3d81;
+      background-color: rgb(235, 61, 129);
+}
