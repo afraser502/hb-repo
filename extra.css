@@ -14,3 +14,8 @@ body p {
     background: eb3d81;
       background-color: rgb(235, 61, 129);
 }
+
+/* Adds padding for the woo-commerce products */
+.woocommerce-tabs.wc-tabs-wrapper {
+    margin-left: 20px;
+}
